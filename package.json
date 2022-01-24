@@ -12,7 +12,7 @@
     "kind-of": ">=6.0.3",
     "minimist": ">=0.2.1",
     "md5-file": "^4.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "rollup": "^1.29.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-copy": "^3.3.0",
